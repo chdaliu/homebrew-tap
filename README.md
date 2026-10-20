@@ -13,6 +13,12 @@ tap "chdaliu/tap"
 brew "<formula>"
 ```
 
+## Formulae
+
+| Formula | Description |
+| --- | --- |
+| [narthex](https://github.com/chdaliu/narthex) | Lightweight web dashboard to launch and stop local apps |
+
 ## Documentation
 
 `brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
