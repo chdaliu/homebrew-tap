@@ -1,6 +1,6 @@
 cask "gitvelo" do
-  version "0.7.0-beta.2"
-  sha256 "c0851716c5640e2dca5a2a542f443c67a1ad404e8f70b23716d7c8b28255df1e"
+  version "0.7.0-beta.3"
+  sha256 "42000ddcf3817da80c498bbaef3756ac30803605720acd858fe0ec78dd557a89"
 
   url "https://github.com/chdaliu/git-velo-app/releases/download/v#{version}/gitvelo-#{version}-macos-universal.dmg"
   name "GitVelo"
