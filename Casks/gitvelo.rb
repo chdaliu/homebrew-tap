@@ -1,6 +1,6 @@
 cask "gitvelo" do
-  version "0.7.0-beta.94"
-  sha256 "9798d34347eec71d93af9d1b39dde0ba558355f271acf6406eba6e2731537583"
+  version "0.7.0-beta.95"
+  sha256 "46a345d4a6e30f7bf8c3c528268ab3707fc8546f2768499df715031c11bcaa97"
   # GitVelo updates itself on standalone macOS builds. Declaring this lets
   # Homebrew compare the installed app bundle instead of the Caskroom record,
   # so an in-app update is not reported as outdated.
